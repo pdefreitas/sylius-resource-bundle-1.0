@@ -1,5 +1,5 @@
 {
-    "name": "sylius/resource-bundle",
+    "name": "pdefreitas/sylius-resource-bundle-1.0",
     "type": "symfony-bundle",
     "description": "Resource component for Sylius.",
     "keywords": ["resource", "storage", "persistence", "sylius"],
